@@ -1,0 +1,28 @@
+{
+  "id": "904",
+  "object": "chat.completion",
+  "created": 1793174828,
+  "model": "Qwen3-VL-8B-Instruct",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "C",
+        "reasoning": "",
+        "reasoning_content": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 201,
+    "completion_tokens": 2,
+    "total_tokens": 203,
+    "prompt_tokens_details": {
+      "cached_tokens": 4,
+      "audio_tokens": 0
+    }
+  }
+}

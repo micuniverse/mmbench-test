@@ -1,0 +1,28 @@
+{
+  "id": "1352",
+  "object": "chat.completion",
+  "created": 1793168397,
+  "model": "Qwen3.6-27B",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "B",
+        "reasoning": "",
+        "reasoning_content": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 246,
+    "completion_tokens": 2,
+    "total_tokens": 248,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

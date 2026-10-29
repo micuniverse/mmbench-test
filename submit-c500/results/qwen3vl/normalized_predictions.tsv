@@ -1,0 +1,213 @@
+index	question	A	B	category	l2-category	prediction	C	D
+241	Identify the question that Madelyn and Tucker's experiment can best answer.	Does Madelyn's snowboard slide down a hill in less time when it has a thin layer of wax or a thick layer of wax?	Does Madelyn's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?	identity_reasoning	attribute_reasoning	B		
+252	Which of the following could Laura and Isabella's test show?	if the concrete from each batch took the same amount of time to dry	if a new batch of concrete was firm enough to use	physical_property_reasoning	attribute_reasoning	B		
+253	Which of the following was a dependent variable in this experiment?	the temperature of the soda	the size of the ice pieces	physical_property_reasoning	attribute_reasoning	A		
+254	Which of the following was an independent variable in this experiment?	the distance the footballs traveled	the air pressure in the footballs	physical_property_reasoning	attribute_reasoning	B		
+256	Which of the following could Devin's test show?	if the weather station would work when the temperature was 50¬∞C	how well the weather station would work when it was windy	physical_property_reasoning	attribute_reasoning	A		
+258	Identify the question that Carson's experiment can best answer.	Does the type of flour used in the muffins affect the number of muffins that turn brown after 30 minutes in the oven?	Do muffins made with white flour have larger volumes than muffins made with whole wheat flour?	physical_property_reasoning	attribute_reasoning	B		
+261	Which statement describes the Great Victoria Desert ecosystem?	It has thick, moist soil.	It has dry, thin soil.	physical_property_reasoning	attribute_reasoning	B		
+264	Which better describes the tide pool ecosystems in Tongue Point Marine Life Sanctuary?	It has water that is poor in nutrients. It also has only a few types of organisms.	It has water that is rich in nutrients. It also has many different types of organisms.	physical_property_reasoning	attribute_reasoning	B		
+267	Which part of an apple tree might grow into a new tree?	a seed	a leaf	physical_property_reasoning	attribute_reasoning	A		
+269	Which animal's limbs are also adapted for gliding?	northern flying squirrel	ring-tailed lemur	physical_property_reasoning	attribute_reasoning	A		
+274	Which fish's mouth is also adapted for tearing through meat?	copperband butterflyfish	tiger moray	physical_property_reasoning	attribute_reasoning	B		
+278	Which animal's skin is also adapted for survival in cold places?	fantastic leaf-tailed gecko	polar bear	physical_property_reasoning	attribute_reasoning	B		
+293	Which material is this spatula made of?	rubber	cotton	function_reasoning	attribute_reasoning	A		
+295	Which property do these two objects have in common?	yellow	salty	function_reasoning	attribute_reasoning	B		
+302	"Complete the statement.
+Boron trifluoride is ()."	an elementary substance	a compound	physical_property_reasoning	attribute_reasoning	B		
+308	"Complete the text to describe the diagram.
+Solute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium."	to the right than to the left	to the left than to the right	physical_property_reasoning	attribute_reasoning	A		
+313	"Complete the text to describe the diagram.
+Solute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium."	to the right than to the left	to the left than to the right	physical_property_reasoning	attribute_reasoning	A		
+316	"Complete the statement.
+Ammonia is ()."	an elementary substance	a compound	physical_property_reasoning	attribute_reasoning	B		
+344	Which of these places was Southern Colonies?	Pennsylvania	Maryland	object_localization	finegrained_perception (instance-level)	B		
+355	Based on the timeline, which statement is true?	Americans boycotted British goods before the Revolutionary War began.	The Boston Massacre was the first battle of the Revolutionary War.	structuralized_imagetext_understanding	logic_reasoning	A		
+362	Is native copper a mineral?	no	yes	attribute_recognition	finegrained_perception (instance-level)	B		
+364	Is plastic a mineral?	yes	no	attribute_recognition	finegrained_perception (instance-level)	B		
+365	"Is the following statement about our solar system true or false?
+The smallest planet is made mainly of rock."	False	True	structuralized_imagetext_understanding	logic_reasoning	B		
+370	"Is the following statement about our solar system true or false?
+The volume of Mars is more than three times as large as Mercury's."	True	False	structuralized_imagetext_understanding	logic_reasoning	B		
+371	Does this passage describe the weather or the climate?	weather	climate	attribute_recognition	finegrained_perception (instance-level)	A		
+377	Which of the following fossils is younger? Select the more likely answer.	ginkgo leaf	mammal tooth	structuralized_imagetext_understanding	logic_reasoning	B		
+388	What do hedgehogs do when they are scared?	They shoot their spines like arrows.	They curl up into a ball.	physical_property_reasoning	attribute_reasoning	B		
+399	What are the fingers of a banana plant?	the bananas	the stems	physical_property_reasoning	attribute_reasoning	A		
+401	Based on the time line, which event happens after James Marshall discovers gold and before gold becomes harder to find?	Many people move to California.	Silver is discovered in Nevada.	structuralized_imagetext_understanding	logic_reasoning	A		
+403	Based on the event chain, which event happens earlier in the legend?	John Henry gets sick.	John Henry beats the machine.	structuralized_imagetext_understanding	logic_reasoning	B		
+404	Based on the table, in which story does the main character travel through time by accident?	in both The Time Machine and A Connecticut Yankee in King Arthur's Court	only in A Connecticut Yankee in King Arthur's Court	structuralized_imagetext_understanding	logic_reasoning	B		
+407	Based on the time line, when did people start playing polo?	before surfing	before sumo wrestling	structuralized_imagetext_understanding	logic_reasoning	B		
+410	Based on the table, what did Ruth Handler invent?	the Rubik's Cube	the Barbie doll	structuralized_imagetext_understanding	logic_reasoning	B		
+419	Based on the event chain, when is Tinker Bell poisoned?	before Captain Hook captures the Lost Boys	after the Lost Boys fight the pirates	structuralized_imagetext_understanding	logic_reasoning	B		
+426	"Complete the sentence.
+The African elephant is the () land animal in the world."	smallest	largest	attribute_recognition	finegrained_perception (instance-level)	B		
+428	Which trait does this red squirrel have?	It has a bushy tail.	It has fins.	attribute_recognition	finegrained_perception (instance-level)	A		
+442	Select the time the lunchroom is most likely to flood.	when a river next to the school overflows	during a drought, when there is not much rain	future_prediction	logic_reasoning	A		
+448	Which term matches the picture?	cocoon	chrysalis	object_localization	finegrained_perception (instance-level)	B		
+449	Which term matches the picture?	endotherms	ectotherms	object_localization	finegrained_perception (instance-level)	A		
+452	Which term matches the picture?	amplitude	wavelength	structuralized_imagetext_understanding	logic_reasoning	A		
+453	Which term matches the picture?	Hawaiian eruption	Strombolian eruption	attribute_recognition	finegrained_perception (instance-level)	B		
+454	Which term matches the picture?	monocot	dicot	attribute_recognition	finegrained_perception (instance-level)	A		
+477	Which term matches the picture?	conduction	convection	object_localization	finegrained_perception (instance-level)	B		
+478	Which term matches the picture?	phloem	xylem	function_reasoning	attribute_reasoning	B		
+480	Which term matches the picture?	fracture	cleavage	attribute_recognition	finegrained_perception (instance-level)	A		
+481	Which term matches the picture?	convex lens	concave lens	function_reasoning	attribute_reasoning	A		
+482	Which term matches the picture?	basket star	brittle star	attribute_recognition	finegrained_perception (instance-level)	A		
+484	Which term matches the picture?	prokaryotic cell	eukaryotic cell	attribute_recognition	finegrained_perception (instance-level)	A		
+485	Which term matches the picture?	obsidian	granite	attribute_recognition	finegrained_perception (instance-level)	B		
+486	Which term matches the picture?	kinetic energy	potential energy	physical_property_reasoning	attribute_reasoning	B		
+487	Which term matches the picture?	echinoderm	cnidarian	attribute_recognition	finegrained_perception (instance-level)	B		
+488	Which term matches the picture?	bilateral symmetry	radial symmetry	spatial_relationship	finegrained_perception (cross-instance)	B		
+858	Two magnets are places as shown. Will these magnets attract or repel each other?	Repel.	Attract.	physical_property_reasoning	attribute_reasoning	A		
+863	Two magnets are placed as shown. Hint: Magnets that attract pull together. Magnets that repel push apart. Will these magnets attract or repel each other?	Repel.	Attract.	physical_property_reasoning	attribute_reasoning	A		
+1085	is this place crowded?	yes	no	image_scene	coarse_perception	A		
+1086	is this place crowded?	yes	no	image_scene	coarse_perception	A		
+1087	is this place crowded?	yes	no	image_scene	coarse_perception	B		
+1088	is this place crowded?	yes	no	image_scene	coarse_perception	B		
+1231	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1232	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1234	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1235	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1237	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1238	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1242	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1243	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1244	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1247	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1248	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1251	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1253	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1254	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1255	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1256	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1257	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	B		
+1258	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1259	Which image is more brightful?	The first image	The second image	image_quality	coarse_perception	A		
+1262	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1264	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1267	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	B		
+1268	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	B		
+1269	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1270	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1273	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1275	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1276	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+1277	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	B		
+1278	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	B		
+1279	which image is more colorful?	The first image	The second image	image_quality	coarse_perception	A		
+34	Which one is the correct caption of this image?	A woman is riding a motorcycle down the street.	The house appears to be clean and beautifully decorated.	action_recognition	finegrained_perception (cross-instance)	A	An elephant is chasing a dog around in the dirt.	A woman is walking her dog and has stopped at a corner and is looking at all the lights and buildings.
+51	Which one is the correct caption of this image?	a brown and black ox and a white and black one and grass	A beautiful woman holding up an umbrella next to a forest.	image_scene	coarse_perception	D	A cutting board and a metal pan topped with pizza.	A huge heard of sheep are all scattered together.
+168	An interesting feature of the clocks on this building is that they use Roman numerals to display the time. There are two such Roman numeral clocks on the tower of the old building. This adds a sense of history and architectural interest to the structure. Adding to its unique design, the tower is also adorned with a five-pointed star on top, giving it a distinctive appearance.	The building has a modern and minimalistic design with no distinctive features.	The building has a unique design with Roman numeral clocks and a five-pointed star on top.	function_reasoning	attribute_reasoning	B	The clocks on the building are digital and display the time in Arabic numerals.	
+244	Which of the following could Ernesto's test show?	which design would have the greatest distance between the concert area and the road	which design would have the least traffic noise in the concert area	identity_reasoning	attribute_reasoning	A	if at least 20% of the park would be shaded by trees in each design	
+270	Which statement describes the Taklamakan Desert ecosystem?	It has dry, thin soil.	It has warm summers and mild winters.	physical_property_reasoning	attribute_reasoning	A	It has a medium amount of rain.	
+282	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The strength of the magnetic force is the same in both pairs.	The magnetic force is weaker in Pair 2.	physical_property_reasoning	attribute_reasoning	A	The magnetic force is weaker in Pair 1.	
+284	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The magnitude of the magnetic force is greater in Pair 2.	The magnitude of the magnetic force is the same in both pairs.	physical_property_reasoning	attribute_reasoning	C	The magnitude of the magnetic force is greater in Pair 1.	
+285	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The magnitude of the magnetic force is the same in both pairs.	The magnitude of the magnetic force is greater in Pair 1.	physical_property_reasoning	attribute_reasoning	A	The magnitude of the magnetic force is greater in Pair 2.	
+288	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The magnitude of the magnetic force is greater in Pair 1.	The magnitude of the magnetic force is the same in both pairs.	physical_property_reasoning	attribute_reasoning	C	The magnitude of the magnetic force is greater in Pair 2.	
+289	Which property do these three objects have in common?	blue	smooth	function_reasoning	attribute_reasoning	B	flexible	
+290	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The magnitude of the magnetic force is smaller in Pair 2.	The magnitude of the magnetic force is the same in both pairs.	physical_property_reasoning	attribute_reasoning	C	The magnitude of the magnetic force is smaller in Pair 1.	
+292	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The magnitude of the magnetic force is smaller in Pair 2.	The magnitude of the magnetic force is smaller in Pair 1.	physical_property_reasoning	attribute_reasoning	B	The magnitude of the magnetic force is the same in both pairs.	
+294	Think about the magnetic force between the magnets in each pair. Which of the following statements is true?	The magnetic force is stronger in Pair 1.	The magnetic force is stronger in Pair 2.	physical_property_reasoning	attribute_reasoning	A	The strength of the magnetic force is the same in both pairs.	
+300	Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?	sample A	neither; the samples have the same temperature	physical_property_reasoning	attribute_reasoning	A	sample B	
+304	Look at the models of molecules below. Select the elementary substance.	chlorine	hydrazine	physical_property_reasoning	attribute_reasoning	A	carbon tetrachloride	
+305	Which solution has a higher concentration of blue particles?	Solution B	neither; their concentrations are the same	physical_property_reasoning	attribute_reasoning	A	Solution A	
+306	Which solution has a higher concentration of green particles?	neither; their concentrations are the same	Solution A	physical_property_reasoning	attribute_reasoning	C	Solution B	
+307	Which solution has a higher concentration of purple particles?	Solution A	Solution B	physical_property_reasoning	attribute_reasoning	A	neither; their concentrations are the same	
+309	Which solution has a higher concentration of purple particles?	Solution B	neither; their concentrations are the same	physical_property_reasoning	attribute_reasoning	A	Solution A	
+311	Which solution has a higher concentration of purple particles?	neither; their concentrations are the same	Solution A	physical_property_reasoning	attribute_reasoning	C	Solution B	
+312	Which solution has a higher concentration of pink particles?	neither; their concentrations are the same	Solution A	physical_property_reasoning	attribute_reasoning	C	Solution B	
+318	Which solution has a higher concentration of green particles?	neither; their concentrations are the same	Solution B	attribute_comparison	finegrained_perception (cross-instance)	B	Solution A	
+319	Which solution has a higher concentration of blue particles?	Solution A	Solution B	attribute_comparison	finegrained_perception (cross-instance)	B	neither; their concentrations are the same	
+366	Which trait did Ursus spelaeus have? Select the trait you can observe on the fossil.	rounded ears	brown fur covering most of its body	attribute_recognition	finegrained_perception (instance-level)	C	long legs	
+374	What type of rock is slate?	igneous	sedimentary	attribute_recognition	finegrained_perception (instance-level)	C	metamorphic	
+385	"Complete the sentence.
+Arctic foxes use their tails to ()."	hide food	keep warm	function_reasoning	attribute_reasoning	B	move around	
+389	Why are kangaroos called boxers?	because of how they use their arms to fight	because they lick their arms before fighting	identity_reasoning	attribute_reasoning	A	because they have strong back legs	
+391	What are rays?	Rays are birds that swim in the water.	Rays are fish that do not have fins.	physical_property_reasoning	attribute_reasoning	C	Rays are fish that are shaped like kites.	
+406	Which is the main persuasive appeal used in this ad?	logos (reason)	pathos (emotion)	physical_property_reasoning	attribute_reasoning	C	ethos (character)	
+408	Which rhetorical appeal is primarily used in this ad?	ethos (character)	pathos (emotion)	physical_property_reasoning	attribute_reasoning	A	logos (reason)	
+411	Which is the main persuasive appeal used in this ad?	logos (reason)	ethos (character)	image_topic	coarse_perception	C	pathos (emotion)	
+414	Which rhetorical appeal is primarily used in this ad?	ethos (character)	pathos (emotion)	image_topic	coarse_perception	C	logos (reason)	
+415	Which is the main persuasive appeal used in this ad?	ethos (character)	logos (reason)	image_topic	coarse_perception	A	pathos (emotion)	
+416	Look at the picture. Which word best describes the sound this water makes?	dripping	snapping	image_topic	coarse_perception	A	growling	
+418	Which rhetorical appeal is primarily used in this ad?	logos (reason)	pathos (emotion)	structuralized_imagetext_understanding	logic_reasoning	C	ethos (character)	
+420	Which rhetorical appeal is primarily used in this ad?	logos (reason)	pathos (emotion)	structuralized_imagetext_understanding	logic_reasoning	B	ethos (character)	
+421	The United States has a federal system. Based on these definitions, which of these statements would most likely be made by a person who lives under a federal system?	My national government officials decide most issues that come up.	Both my state and national government officials have power over important issues.	structuralized_imagetext_understanding	logic_reasoning	B	I only pay attention to state politics since the national government has almost no power.	
+422	The United States has a federal system. Based on these definitions, which of these statements would most likely be made by a person who lives under a federal system?	I only pay attention to state politics since the national government has almost no power.	My national government officials decide most issues that come up.	structuralized_imagetext_understanding	logic_reasoning	C	Both my state and national government officials have power over important issues.	
+424	The United States has a federal system. Based on these definitions, which of these statements would most likely be made by a person who lives under a federal system?	Both my state and national government officials have power over important issues.	I only pay attention to state politics since the national government has almost no power.	structuralized_imagetext_understanding	logic_reasoning	A	My national government officials decide most issues that come up.	
+425	The United States has a federal system. Based on these definitions, which of these statements would most likely be made by a person who lives under a federal system?	I only pay attention to state politics since the national government has almost no power.	Both my state and national government officials have power over important issues.	structuralized_imagetext_understanding	logic_reasoning	B	My national government officials decide most issues that come up.	
+427	"Why might raising cubs with other lionesses in a pride increase an African lioness's reproductive success? Complete the claim below that answers this question and is best supported by the passage.
+Raising cubs with other lionesses in a pride increases the chances that ()."	the lioness's cubs will be around other cubs	the lioness's cubs will survive attacks	nature_relation	relation_reasoning	B	the lioness will feed the cubs of other lionesses	
+431	"Complete the sentence.
+An Indian flying fox is a ()."	bird	bat	object_localization	finegrained_perception (instance-level)	B	fox	
+432	"Why might forming strong social bonds with other females increase the reproductive success of a female baboon? Complete the claim below that answers this question and is best supported by the passage.
+Forming strong social bonds with other females increases the chances that ()."	the female's offspring will live longer	the female will spend more time grooming other baboons	nature_relation	relation_reasoning	A	the female's offspring will be around other females	
+433	Which trait does this leaf-cutter ant have?	It has long, thin legs.	The outside of its body is soft.	attribute_recognition	finegrained_perception (instance-level)	A	It eats leaves.	
+434	Which trait does this leaf-cutter ant have?	The outside of its body is soft.	It can carry a piece of a leaf.	spatial_relationship	finegrained_perception (cross-instance)	B	It eats leaves.	
+435	Which of the following is a characteristic of tropical coral reefs?	They have many large rocks called corals.	They are usually found in the deep ocean.	physical_property_reasoning	attribute_reasoning	C	They have warm, salty water.	
+438	Which of the following is a characteristic of tropical coral reefs?	They are used by many different organisms.	They are usually found in the deep ocean.	function_reasoning	attribute_reasoning	A	They have many large rocks called corals.	
+440	"Why might feeding offspring during mouthbrooding increase the reproductive success of a female blunthead cichlid? Complete the claim below that answers this question and is best supported by the passage.
+Feeding offspring during mouthbrooding increases the chances that ()."	the female will become weak and unhealthy	the female's offspring will survive	nature_relation	relation_reasoning	B	the female will hold more offspring in her mouth	
+444	What is true about hurricanes?	Hurricanes can be found only over ocean water.	Hurricanes are large spiral-shaped storms.	attribute_recognition	finegrained_perception (instance-level)	B	Hurricanes can be found only over land.	
+445	According to the text, what evidence of a volcanic eruption did the captain observe?	He heard a report on the radio warning about a volcanic eruption.	He smelled sulfur and then realized it was not coming from his boat.	future_prediction	logic_reasoning	B	He knew his crew had finished putting their fishing lines in the ocean.	
+471	Based on the timeline, which of the following statements is true?	Other civilizations existed at the same time as the Aztec.	The Aztec civilization lasted longer than the Maya civilization.	structuralized_imagetext_understanding	logic_reasoning	A	The Aztec were the only civilization to exist in the early Americas.	
+473	Based on the map, what was true about the Silk Road around the year 1300 CE?	The Silk Road connected parts of East Asia, the Middle East, and Europe.	The Silk Road connected East Asia and the Americas by sea.	structuralized_imagetext_understanding	logic_reasoning	A	The Silk Road was made up of only land routes.	
+607	What is the shape of the small yellow rubber thing that is in front of the large yellow metal ball that is behind the small matte object?	cube	sphere	attribute_recognition	finegrained_perception (instance-level)	A	cylinder	
+608	There is a thing that is both to the left of the gray sphere and to the right of the small cylinder; what shape is it?	cube	sphere	attribute_recognition	finegrained_perception (instance-level)	A	cylinder	
+609	There is a big metallic thing left of the tiny green object; what is its shape?	cube	sphere	attribute_recognition	finegrained_perception (instance-level)	B	cylinder	
+610	The other object that is the same color as the large shiny thing is what shape?	cube	sphere	attribute_recognition	finegrained_perception (instance-level)	C	cylinder	
+828	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	A	parasitism	
+832	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	A	parasitism	
+833	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	A	parasitism	
+835	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	B	parasitism	
+837	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	B	parasitism	
+838	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	B	parasitism	
+840	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	B	parasitism	
+841	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	B	parasitism	
+845	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	C	parasitism	
+846	What the nature relations of these animals	predation	mutualism	nature_relation	relation_reasoning	C	parasitism	
+1009	Which is right?	The orange is next to the apple	The apple is on the left	physical_relation	relation_reasoning	A	The orange is on the right	All above are not right
+1012	Based on the image, where is the boy?	The boy is on the right of the fire hydrant	The boy is on the left of the fire hydrant	physical_relation	relation_reasoning	B	The boy is on the top of the fire hydrant	All above are not right
+1092	Are the two chairs the same color in the picture?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1093	Are the two sofas the same color in the picture?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1096	Are the two shapes the same in the picture?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1097	Are the two pens the same size in the picture?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1099	Are the candies in the two jars in the picture the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1102	Are the two candy jars in the picture the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1103	Are the two apples in the picture the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1104	There are two physical models in the picture, are the two square sliders the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1105	Are the two hoops in the picture the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1106	Are the two horses in the picture the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1107	Are the two animals in the picture the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1108	In the picture, one is a bear doll and the other is a cat. Are they the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1109	In this sketch picture, are the two objects the same size and shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1110	In the picture there are two objects stacked with cubes. Are they the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1112	In this comparison picture, are the colors the same on both sides?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1113	In this comparison diagram, are the upper and lower modules the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1114	In this comparison diagram, are the upper and lower modules the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1116	In this comparison picture, are the left and right modules the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1117	In this comparison picture, are the upper and lower modules the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1118	In this comparison picture, are the upper and lower modules the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1120	In this comparison picture, are the left and right modules the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1121	In this comparison picture, are the left and right modules the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1122	In this comparison picture, are the left and right modules the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1123	In this comparison picture, are the left and right modules the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1124	In this comparison picture, are the left and right modules the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	A	Can't judge	
+1125	In this picture, are the two lipsticks the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1127	Are the two bears in this picture the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1128	In this picture, are the two dolphins the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	C	Can't judge	
+1129	In this picture, are the two butterfly wings the same shape?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1130	In this picture, are the two parrots the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1131	In this picture, are the two people standing at the same height?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1133	Are the backgrounds of the two pictures the same color?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1137	Are the two bananas the same size?	same	Not the same	attribute_comparison	finegrained_perception (cross-instance)	B	Can't judge	
+1189	What will happen next?	this person is gonna cry	this person is gonna laugh	future_prediction	logic_reasoning	A	this person is gonna get mad	both A,B, and C
+1192	What will happen next?	this person is gonna cry	this person is gonna laugh	future_prediction	logic_reasoning	B	this person is gonna get mad	both A,B, and C
+1193	What will happen next?	this person is gonna cry	this person is gonna laugh	future_prediction	logic_reasoning	B	this person is gonna get mad	both A,B, and C
+1195	What will happen next?	this person is gonna cry	this person is gonna laugh	future_prediction	logic_reasoning	A	this person is gonna get mad	both A,B, and C
+1198	What will happen next?	the bike is gonna get stuck in the mud	the bike is gonna run forward	future_prediction	logic_reasoning	A	the bike is gonna go backwards	both A,B, and C
+1199	What will happen next?	the car is gonna drive through	the car is gonna crash into the fence	future_prediction	logic_reasoning	B	the car is gonna drive backwards	both A,B, and C
+1200	What will happen next?	the motorcyle is gonna go forward	the motorcyle is gonna crash	future_prediction	logic_reasoning	B	the motorcyle is gonna go backward	both A,B, and C
+1201	What will happen next?	this person is gonna stay still	this person is gonna keep walking	future_prediction	logic_reasoning	C	this person is gonna fall into the water	both A,B, and C
+1204	What will happen next?	the wood is goona crash	the motorcycle is gonna successfully go up along the wood	future_prediction	logic_reasoning	B	the motorcycle is gonna crash into the car	both A,B, and C
+1205	What will happen next?	the person is gonna sit on top of the snow and feel hurt	the person is gonna get sunk into the fluffy snow	future_prediction	logic_reasoning	B	the person is gonna ski	both A,B, and C

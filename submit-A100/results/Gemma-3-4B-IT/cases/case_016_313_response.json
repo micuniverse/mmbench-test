@@ -1,0 +1,28 @@
+{
+  "id": "152",
+  "object": "chat.completion",
+  "created": 1793168353,
+  "model": "Gemma-3-4B-IT",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "A",
+        "reasoning": "",
+        "reasoning_content": null,
+        "tool_calls": null
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 451,
+    "completion_tokens": 2,
+    "total_tokens": 453,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}
