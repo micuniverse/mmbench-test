@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# A100 - 40g.docx launch settings, with vision enabled for MMBench.
+# Qwen3-VL is configured here because that model is absent from the document.
+
 model=${1:-}
 case "$model" in
   gemma3|qwen3.6|qwen3vl) ;;

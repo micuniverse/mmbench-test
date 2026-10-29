@@ -102,9 +102,6 @@ run_model() {
   "${python_bin}" "${submit_root}/scripts/mmbench_openai_runner.py" run \
     --url "${url}" --model "${model_id}" "${effort[@]}" \
     --limit 200 --output "${model_dir}/full"
-  "${python_bin}" "${submit_root}/scripts/analyze_batch_log.py" \
-    --summary "${model_dir}/full/summary.json" --log "${model_dir}/server.log" \
-    --output "${model_dir}/full/batch_audit.json"
   echo "${name} completed; stopping its service"
   stop_server
 }
